@@ -1,0 +1,42 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: arial;
+}
+
+.google{
+	width: 600px;
+	margin: 200px auto;
+}
+.google img{
+	margin: auto;
+	width: 275px;
+	display: block;
+}
+.google input{
+	width:100%;
+	padding: 10px;
+	border-radius: 2px;
+	box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16),0 0 0 1px rgba(0,0,0,0.08);
+	box-sizing: border-box;
+	font-size: 18px;
+	margin: 20px 0px;
+	color: #222;
+}
+.google input:hover{
+	border-color: #a0a0a0 #b9b9b9 #b9b9b9 #b9b9b9 !important;
+}
+.button{
+	text-align: center;
+}
+.button button{
+	padding: 6px 20px;
+	border: 1px solid #c6c6c6;
+	box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+	font-size: 13px;
+}
+.google p{
+	text-align: center;
+	margin: 10px;
+	font-size: small;
+}
